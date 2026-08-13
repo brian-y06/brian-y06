@@ -10,6 +10,6 @@ Year 2: AI Research Collaboration at the MIT Center for Collective Intelligence,
 <br/><br/>
 Other Courses: Quantum Mechanics & Statistical Thermodynamics, Fluid Dynamics & Vector Calculus, Probability and Statistics, Intro to Civil Engineering, Digital Circuits, Ordinary Differential Equations, Canadian Criminal Law, Intro to Philosophy, etc.
 <br/><br/>
-**Current Projects:** [Grounded](https://grounded-six.vercel.app/) - an AI search tool that highlights the exact source passage behind each claim.
+**Current Projects:** Grounded - an AI search tool that highlights the exact source passage behind each claim.
 <br/><br/>
 Outside of work, I like to read about macroeconomics, learn about music composition, and meet new people!
